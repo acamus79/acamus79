@@ -1,4 +1,4 @@
-### Hey there 👋 i am Adrian Camus
+### Hey there 👋 i am Adrian Camus 👨‍✈️🤙 
 - 🌱 I’m currently learning Phyton
 - 🔭 I’m currently working on Springboot
 
