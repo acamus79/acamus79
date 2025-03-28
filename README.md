@@ -34,11 +34,13 @@
   <a href="https://www.linkedin.com/in/acamus79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/AmcFQ3Jh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrianedgardocamus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-   
-  ![Snake animation](https://github.com/acamus79/acamus79/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+###
+
+  ![Snake animation](https://github.com/acamus79/acamus79/blob/output/github-contribution-grid-snake.svg)
+
+###
 
 ##
 <div align="center">
@@ -69,5 +71,6 @@
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
 https://devicon.dev/
-
+   
+  ![Snake animation](https://github.com/acamus79/acamus79/blob/output/github-contribution-grid-snake.svg)
 -->
