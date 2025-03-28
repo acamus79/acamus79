@@ -4,8 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/acamus79">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acamus79&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamus79&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acamus79&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamus79&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -27,20 +28,41 @@
   
   ##
  
-<div>
+<div align="center">
   <a href="https://api.whatsapp.com/send?phone=5492612493357&text=Hola!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://t.me/adriancamus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
+  <a href="https://t.me/adriancamus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/acamus79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/AmcFQ3Jh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/AmcFQ3Jh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrianedgardocamus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
    
   ![Snake animation](https://github.com/acamus79/acamus79/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-
-
+##
+<div align="center">
+  <a href="https://github.com/acamus79/PassKeeper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=PassKeeper&theme=cobalt" />
+  </a>
+  <a href="https://github.com/acamus79/AraK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=AraK&theme=cobalt" />
+  </a>
+  <p></p>
+  <a href="https://github.com/acamus79/SimplyNotes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=SimplyNotes&theme=cobalt" />
+  </a>
+  <a href="https://github.com/acamus79/StoreChallenge">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=StoreChallenge&theme=cobalt" />
+  </a>
+  <p></p>
+  <a href="https://github.com/acamus79/puppilots-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=puppilots-backend&theme=cobalt" />
+  </a>
+  <a href="https://github.com/acamus79/ONG-SomosMas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acamus79&repo=ONG-SomosMas&theme=cobalt" />
+  </a>
+</div>
 
 <!--
 
