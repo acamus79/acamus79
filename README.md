@@ -20,23 +20,24 @@
   <img align="center" alt="acamus-ELECTRON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="acamus-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
 </div>
-
+<!--
 <div align="center">
   <br>
   <a href="https://github.com/acamus79">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamus79&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+-->
   
   ##
  
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=5492612493357&text=Hola!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5492612493357&text=Hola te escribo desde GitHub!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/adriancamus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/acamus79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/AmcFQ3Jh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrianedgardocamus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<!--
 ##
 <div align="center">
   <a href="https://github.com/acamus79/PassKeeper">
@@ -54,7 +55,7 @@
   </a>
 </div>
 
-<!--
+
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
