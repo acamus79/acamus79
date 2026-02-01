@@ -1,6 +1,6 @@
 ### Hey there 👋 i am Adrian Camus 👨‍✈️🤙 
-- 🌱 I’m currently learning Phyton
-- 🔭 I’m currently working on Springboot
+- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working on Springboot and React Native
 
 
 <div align="center" style="display: inline_block">
